@@ -1,0 +1,125 @@
+/*------------------------------------*\
+    #FONT-WEIGHT
+\*------------------------------------*/
+
+// Choose your font-weights, depending on your font-family
+// and which one you need.
+$inuit-enable-font-weight--100:     false !default;
+$inuit-enable-font-weight--200:     false !default;
+$inuit-enable-font-weight--300:     false !default;
+$inuit-enable-font-weight--400:     false !default;
+$inuit-enable-font-weight--500:     false !default;
+$inuit-enable-font-weight--600:     false !default;
+$inuit-enable-font-weight--700:     false !default;
+$inuit-enable-font-weight--800:     false !default;
+$inuit-enable-font-weight--900:     false !default;
+
+
+
+@if ($inuit-enable-font-weight--100 == true) {
+
+    /**
+     * Font weight 100
+     */
+    .weight--100,
+    %weight--100{
+        font-weight: 100 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--200 == true) {
+
+    /**
+     * Font weight 200
+     */
+    .weight--200,
+    %weight--200{
+        font-weight: 200 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--300 == true) {
+
+    /**
+     * Font weight 300
+     */
+    .weight--300,
+    %weight--300{
+        font-weight: 300 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--400 == true) {
+
+    /**
+     * Font weight 400
+     */
+    .weight--400,
+    %weight--400{
+        font-weight: 400 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--500 == true) {
+
+    /**
+     * Font weight 500
+     */
+    .weight--500,
+    %weight--500{
+        font-weight: 500 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--600 == true) {
+
+    /**
+     * Font weight 600
+     */
+    .weight--600,
+    %weight--600{
+        font-weight: 600 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--700 == true) {
+
+    /**
+     * Font weight 700
+     */
+    .weight--700,
+    %weight--700{
+        font-weight: 700 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--800 == true) {
+
+    /**
+     * Font weight 800
+     */
+    .weight--800,
+    %weight--800{
+        font-weight: 800 !important;
+    }
+
+}
+
+@if ($inuit-enable-font-weight--900 == true) {
+
+    /**
+     * Font weight 900
+     */
+    .weight--900,
+    %weight--900{
+        font-weight: 900 !important;
+    }
+
+}
