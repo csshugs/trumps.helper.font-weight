@@ -1,3 +1,3 @@
-#float
+#font-weight
 
-Text-align helper classes.
+Font-weight helper classes.
