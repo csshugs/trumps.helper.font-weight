@@ -19,10 +19,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--100 == true) {
 
     /**
-     * Font weight 100
+     * Font weight 100.
      */
-    .weight--100,
-    %weight--100{
+    .u-weight-100 {
         font-weight: 100 !important;
     }
 
@@ -31,10 +30,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--200 == true) {
 
     /**
-     * Font weight 200
+     * Font weight 200.
      */
-    .weight--200,
-    %weight--200{
+    .u-weight-200 {
         font-weight: 200 !important;
     }
 
@@ -43,10 +41,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--300 == true) {
 
     /**
-     * Font weight 300
+     * Font weight 300.
      */
-    .weight--300,
-    %weight--300{
+    .u-weight-300 {
         font-weight: 300 !important;
     }
 
@@ -55,10 +52,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--400 == true) {
 
     /**
-     * Font weight 400
+     * Font weight 400.
      */
-    .weight--400,
-    %weight--400{
+    .u-weight-400 {
         font-weight: 400 !important;
     }
 
@@ -67,10 +63,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--500 == true) {
 
     /**
-     * Font weight 500
+     * Font weight 500.
      */
-    .weight--500,
-    %weight--500{
+    .u-weight-500 {
         font-weight: 500 !important;
     }
 
@@ -79,10 +74,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--600 == true) {
 
     /**
-     * Font weight 600
+     * Font weight 600.
      */
-    .weight--600,
-    %weight--600{
+    .u-weight-600 {
         font-weight: 600 !important;
     }
 
@@ -91,10 +85,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--700 == true) {
 
     /**
-     * Font weight 700
+     * Font weight 700.
      */
-    .weight--700,
-    %weight--700{
+    .u-weight-700 {
         font-weight: 700 !important;
     }
 
@@ -103,10 +96,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--800 == true) {
 
     /**
-     * Font weight 800
+     * Font weight 800.
      */
-    .weight--800,
-    %weight--800{
+    .u-weight-800 {
         font-weight: 800 !important;
     }
 
@@ -115,10 +107,9 @@ $inuit-enable-font-weight--900:     false !default;
 @if ($inuit-enable-font-weight--900 == true) {
 
     /**
-     * Font weight 900
+     * Font weight 900.
      */
-    .weight--900,
-    %weight--900{
+    .u-weight-900 {
         font-weight: 900 !important;
     }
 

@@ -1,3 +1,3 @@
-#font-weight
+#Font-weight
 
 Font-weight helper classes.
